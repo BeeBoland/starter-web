@@ -3,7 +3,8 @@
 This repository is for showing how Git and GitHub work
 ##Introduction
 
-Adding into
+Adding introduction paragraph
+
 ## Purpose
 
 Sample website with plenty of files for demos
