@@ -23,3 +23,4 @@ how to deploy
 
 ##copyright
 2021 git training 
+all rights reserved 
