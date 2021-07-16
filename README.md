@@ -12,6 +12,7 @@ Sample website with plenty of files for demos
 ##How to contribute
 
 how to do this. number three
+Please fork repo and issue request for review
 
 ##deployment
 
