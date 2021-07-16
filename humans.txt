@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Bee O'Leary trainee
 
 # THANKS
 
