@@ -8,7 +8,7 @@
 
 # THANKS
 
-    <name>
+    thanks peeps<name>
 
 # TECHNOLOGY COLOPHON
 
