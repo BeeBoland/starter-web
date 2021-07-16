@@ -3,7 +3,8 @@
 This repository is for showing how Git and GitHub work. Modify this file
 ##Introduction
 
-Adding introduction paragraph. doing more
+Adding introduction paragraph. doing more.
+add stuff ig
 
 ## Purpose
 
